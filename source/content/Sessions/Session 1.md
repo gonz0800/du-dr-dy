@@ -1,4 +1,9 @@
-- [[Drummer]] is proselytizing in the name of [[Myrkal]] on the streetcorners of [[Levinth|Lordranth]]
+---
+tags:
+  - session
+---
+
+- [[Drummer]] is proselytizing in the name of [[Myrkul]] on the streetcorners of [[Levinth|Lordranth]]
 	- [[Keth]] agrees to go to Church with him
 - [[Desius]] and [[Nutsall]] are at the bank trying to withdraw their money
 	- Nutsall only has 1CP; Desius has nothing

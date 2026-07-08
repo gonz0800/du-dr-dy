@@ -1,6 +1,8 @@
 ---
 aliases:
   - General of the Drowvian Army
+tags:
+  - enemy
 ---
 - old woman
 - glowing red eyes

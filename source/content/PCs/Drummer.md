@@ -1,0 +1,11 @@
+---
+tags:
+  - PC
+---
+
+- **species:** duck (but adamantly a Kenku)
+- **class:** cleric of [[Myrkul]]
+- **background:** Dead Magic Dweller
+- **weapons:** mace, greatclub
+- has Church alone
+- not a fan of [[Prince Adran]]

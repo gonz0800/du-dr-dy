@@ -1,0 +1,14 @@
+---
+tags:
+  - PC
+---
+
+- **species:** orc
+- **class:** Fighter
+- **background:** anthropologist
+- **weapons:** greatsword, javelins, flail
+- born a human
+- died in a war
+- revived as an orc
+- fought in another war???
+- now exploring as an orc

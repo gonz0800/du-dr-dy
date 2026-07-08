@@ -4,6 +4,8 @@ aliases:
   - Dwarven Dungeon
   - Chapter Tree
   - Wally's Bar and Inn
+tags:
+  - map
 ---
 - Dwarven-Elven Biarchy
 - somewhat politically tense

@@ -1,3 +1,8 @@
+---
+tags:
+  - session
+---
+
 - [[Prince Adran]] and [[Princess Dunmre]] apprehend one of the hooded figures, shackle her, and take her to the [[Levinth|Dwarven Dungeon]]
 - Adran and Dunmre tell us that we have been Chosen to fulfil a [[Prophecy]] about the heroes who will save the city or the continent or something
 	- we will be tasked to find and retrieve [[Kyorr]]
