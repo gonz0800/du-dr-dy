@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Prophecy.md",
+                "file": "Sessions/Session list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prophecy"
+              "title": "Session list"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Prophecy.md",
+                "file": "Sessions/Session list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Prophecy"
+              "title": "Backlinks for Session list"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Prophecy.md",
+                "file": "Sessions/Session list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Prophecy"
+              "title": "Outgoing links from Session list"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Prophecy.md",
+                "file": "Sessions/Session list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prophecy"
+              "title": "Outline of Session list"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "351b5410c5876e1b",
   "lastOpenFiles": [
+    "Lore/Prophecy.md",
     "Lore/Princess Selune.md",
     "Setting/Isle of Terror.md",
     "Lore",
@@ -205,7 +206,6 @@
     "Setting/Ninth.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
-    "Lore/Prophecy.md",
     "index.md",
     "NPCs/Gods & Deities/Kelemvor.md",
     "NPCs/Political figures/Prince Adran.md",
