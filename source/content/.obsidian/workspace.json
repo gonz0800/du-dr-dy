@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session list.md",
+                "file": "Lore/Four Forgotten Heroes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session list"
+              "title": "Four Forgotten Heroes"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session list.md",
+                "file": "Lore/Four Forgotten Heroes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session list"
+              "title": "Backlinks for Four Forgotten Heroes"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session list.md",
+                "file": "Lore/Four Forgotten Heroes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session list"
+              "title": "Outgoing links from Four Forgotten Heroes"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session list.md",
+                "file": "Lore/Four Forgotten Heroes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session list"
+              "title": "Outline of Four Forgotten Heroes"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "351b5410c5876e1b",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Sessions/Session list.md",
     "Lore/Prophecy.md",
     "Lore/Princess Selune.md",
     "Setting/Isle of Terror.md",
@@ -211,8 +212,7 @@
     "NPCs/Political figures/Prince Adran.md",
     "Organizations/Political/Drowvian Army.md",
     "Organizations/Gotthemus family.md",
-    "Setting/Historical Figures/Four Forgotten Heroes.md",
-    "Sessions/Session list.md",
+    "Lore/Four Forgotten Heroes.md",
     "PCs/Seaof.md",
     "PCs/Nutsall.md",
     "PCs/Keth.md",
