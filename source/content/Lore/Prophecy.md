@@ -1,0 +1,13 @@
+---
+tags:
+  - historical
+---
+- there exists some prophecy that says that we are the Chosen Ones who will save the city (or the continent or something) from destruction (or something like that)
+- First mentioned to us by [[Prince Adran]] and [[Princess Dunmre]] in [[Session 2]]
+- Has something to do with [[Princess Selune]], whoever that is
+- [[Drummer]] saw a "dark" version of this prophecy in a book from [[Lordranth|Chapter Tree]]
+	- Kenku warrior being murdered
+	- Wyvern breathing fire with a rider on its back
+- [[Nutsall]] saw a "light" version in a different book from Chapter tree
+	- all of us lined up as heroes
+	- glowing purple gem with the text "The key to victory lies here"
