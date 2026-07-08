@@ -1,7 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: Dungeons & Dragons & Dylan Wiki
 ---
-
-Hello world!
-
-Write some words here! hi
+Session notes for Dylan's 2026 campaign.
