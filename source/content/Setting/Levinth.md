@@ -2,6 +2,8 @@
 aliases:
   - Lordranth
   - Dwarven Dungeon
+  - Chapter Tree
+  - Wally's Bar and Inn
 ---
 - Dwarven-Elven Biarchy
 - somewhat politically tense
@@ -18,3 +20,10 @@ aliases:
 	- One statue of each race
 	- Orc statue engraving: "RIP the [[Four Forgotten Heroes]]". Next line: "Slayer of Men: Gorthon".
 ## Dwarven Dungeon
+
+## Establishments
+- Wally's Bar and Inn
+	- inside the Northernmost statue around the main square
+	- Ran by a woman Millie? or something like that
+- Chapter Tree
+	- south of the main square

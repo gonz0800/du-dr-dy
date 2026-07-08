@@ -1,1 +1,18 @@
 - [[Prince Adran]] and [[Princess Dunmre]] apprehend one of the hooded figures, shackle her, and take her to the [[Levinth|Dwarven Dungeon]]
+- Adran and Dunmre tell us that we have been Chosen to fulfil a [[Prophecy]] about the heroes who will save the city or the continent or something
+	- we will be tasked to find and retrieve [[Kyorr]]
+	- something about being given this task by [[Princess Selune]]?? or something like that
+	- Party is supposed to meet then in the Dungeon later in the day
+- [[Desius]] and [[Keth]] harass a police officer about how "the bank mistreated Desius earlier"
+- [[Nutsall]] and [[Drummer]] go to a local bookstore, the [[Levinth|Chapter Tree]]
+	- buy three books: a book on Kenkus and two books on the Prophecy (one optimistic; one pessimistic)
+	- Nutsall reveals to Drummer that this is the first time that he and Desius are seeing each other in 10 years
+- Desius and Keth go to [[Levinth|Wally's Bar and Inn]]
+	- Desius is trying to teach Keth to pull off scams
+	- They run into a mysterious stranger, [[Seaof]], who can only communicate Keth a little bit in Common Sign
+	- Desius and Seaof get pretty drunk; Keth not so much
+	- Desius and Seaof almost get into a bar fight
+		- When Desius gets hurt in a stupid way, Nutsall can feel it and sort of use it to track Desius
+		- Nutsall thinks Desius has been cursed
+	- Nutsall and Drummer rush in to try to calm the situation but the city guards rush in and try to arrest Keth
+	- Keth rushes out into the street and runs 
