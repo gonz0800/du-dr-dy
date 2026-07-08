@@ -1,0 +1,1 @@
+- [[Prince Adran]] and [[Princess Dunmre]] apprehend one of the hooded figures, shackle her, and take her to the [[Levinth|Dwarven Dungeon]]

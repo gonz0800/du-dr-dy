@@ -1,0 +1,3 @@
+- muscled AF
+- glowing gold armor
+- **Weapon:** battleaxe
