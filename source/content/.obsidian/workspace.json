@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session 1"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Session 1"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Session 1"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Sessions/Session 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Session 1"
             }
           }
         ]
@@ -197,6 +197,10 @@
   },
   "active": "351b5410c5876e1b",
   "lastOpenFiles": [
+    "Sessions/Session 2.md",
+    "PCs/Desius.md",
+    "PCs/Nutsall.md",
+    "index.md",
     "Lore/Four Forgotten Heroes.md",
     "Sessions/Session list.md",
     "Lore/Prophecy.md",
@@ -206,18 +210,14 @@
     "Setting/Levinth.md",
     "Setting/Lordranth.md",
     "Setting/Ninth.md",
-    "Sessions/Session 2.md",
     "Sessions/Session 1.md",
-    "index.md",
     "NPCs/Gods & Deities/Kelemvor.md",
     "NPCs/Political figures/Prince Adran.md",
     "Organizations/Political/Drowvian Army.md",
     "Organizations/Gotthemus family.md",
     "PCs/Seaof.md",
-    "PCs/Nutsall.md",
     "PCs/Keth.md",
     "PCs/Drummer.md",
-    "PCs/Desius.md",
     "NPCs/Political figures/Princess Dunmre.md",
     "NPCs/Political figures/Kyorr.md",
     "NPCs/Gods & Deities/Myrkul.md",

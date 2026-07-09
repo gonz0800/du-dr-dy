@@ -18,4 +18,6 @@ tags:
 	- Three swarms of bats descend on the crowd and are killed by the party
 	- Adran and Dunmre take down the hooded figures with relative ease, keeping one alive to be kept prisoner
 
+
+
 - leaving off directly after the battle ends

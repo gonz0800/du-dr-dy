@@ -11,7 +11,7 @@ tags:
 - [[Desius]] and [[Keth]] harass a police officer about how "the bank mistreated Desius earlier"
 - [[Nutsall]] and [[Drummer]] go to a local bookstore, the [[Lordranth|Chapter Tree]]
 	- buy three books: a book on Kenkus and two books on the Prophecy (one optimistic; one pessimistic)
-	- Nutsall reveals to Drummer that this is the first time that he and Desius are seeing each other in 10 years
+	- Nutsall reveals to Drummer that this is the first time that he and Desius are seeing each other in 10 years; there was some sort of argument between them and their parents took Desius's side
 - Desius and Keth go to [[Lordranth|Wally's Bar and Inn]]
 	- Desius is trying to teach Keth to pull off scams
 	- They run into a mysterious stranger, [[Seaof]], who can only communicate Keth a little bit in Common Sign
@@ -32,10 +32,10 @@ tags:
 - party returns to Wally's, surprisingly successfully disguising Keth as Michael B. Jordan
 	- get rooms for free by promising the owner a signed autograph from Michael
 	- In the rooms, Nutsall and Drummer read their books on the [[Prophecy]]
-	- [[Drummer]] saw a "dark" version of this prophecy in a book from [[Lordranth|Chapter Tree]]
+	- Drummer saw a "dark" version of this prophecy in a book from [[Lordranth|Chapter Tree]]
 		- Kenku warrior being murdered
 		- Wyvern breathing fire with a rider on its back
-	- [[Nutsall]] saw a "light" version in a different book from Chapter tree
+	- Nutsall saw a "light" version in a different book from Chapter tree
 		- all of us lined up as heroes
 		- glowing purple gem with the text "The key to victory lies here"
 - In the morning, party debates going on the quest
@@ -45,6 +45,8 @@ tags:
 - on the forest trade route north out of Lordranth towards Ninth, the party is "attacked" by a mysterious slot machine
 	- Bad results of playing slots: giant rocks (sometimes on fire) hurling at you from nowhere; zombies
 	- Good results: cash money, a fancy looking ring, bubble confetti, and the slots breaking themselves
+
+
 
 - leaving off with the heroes planning to take a Short Rest
 	- Drummer wants to inspect the slots bc wtf was up with that
