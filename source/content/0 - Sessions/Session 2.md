@@ -28,7 +28,7 @@ tags:
 	- Adran kills the hooded figure
 	- start by going to the port town of [[Ninth]], north of [[Lordranth]]
 	- Keth is released
-- party returns to Wally's, surprisingly successfully disguising Keth as Michael B. Jordan
+- party returns to Wally's, surprisingly successfully disguising Keth as [[List of Anachronisms and Ana-world-isms|Michael B. Jordan]]
 	- get rooms for free by promising the owner a signed autograph from Michael
 	- In the rooms, Nutsall and Drummer read their books on the [[Prophecy]]
 	- Drummer saw a "dark" version of this prophecy in a book from [[Lordranth|Chapter Tree]]
