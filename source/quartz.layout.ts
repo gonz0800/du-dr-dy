@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      "D&D Beyond Basic Rules": "https://www.dndbeyond.com/sources/dnd/br-2024",
+      "More Rules Online": "http://dnd2024.wikidot.com/",
     },
   }),
 }
