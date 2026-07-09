@@ -2,8 +2,8 @@
 tags:
   - PC
 ---
-
- - **Species:** forest gnome
+- **player:** Hiroki
+- **Species:** forest gnome
 - **Class:** wizard
 - **background:** sage
 - **height:** 3'0"

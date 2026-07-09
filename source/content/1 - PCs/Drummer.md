@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
-
+- **player:** anni
 - **species:** duck (but adamantly a Kenku)
 - **class:** cleric of [[Myrkul]]
 - **background:** Dead Magic Dweller

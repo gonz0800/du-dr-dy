@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Lordranth.md",
+                "file": "4 - Setting/Lordranth.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "5 - Lore/Prophecy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Prophecy"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "5 - Lore/Prophecy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 1"
+              "title": "Backlinks for Prophecy"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "5 - Lore/Prophecy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 1"
+              "title": "Outgoing links from Prophecy"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/Session 1.md",
+                "file": "5 - Lore/Prophecy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 1"
+              "title": "Outline of Prophecy"
             }
           }
         ]
@@ -195,42 +195,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "351b5410c5876e1b",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Sessions/Session 2.md",
-    "PCs/Desius.md",
-    "PCs/Nutsall.md",
+    "5 - Lore/Princess Selune.md",
+    "5 - Lore/Four Forgotten Heroes.md",
+    "2 - NPCs/Gods & Deities/Kelemvor.md",
+    "2 - NPCs/Gods & Deities/Myrkul.md",
+    "2 - NPCs/Political figures/Kyorr.md",
+    "2 - NPCs/Political figures/Prince Adran.md",
+    "2 - NPCs/Political figures/Princess Dunmre.md",
+    "3 - Organizations/Gotthemus family.md",
+    "3 - Organizations/Political/Drowvian Army.md",
+    "1 - PCs/Seaof.md",
+    "1 - PCs/Desius.md",
+    "1 - PCs/Drummer.md",
+    "1 - PCs/Keth.md",
+    "1 - PCs/Nutsall.md",
+    "4 - Setting/Ninth.md",
+    "4 - Setting/Lordranth.md",
+    "4 - Setting/Levinth.md",
+    "4 - Setting/Isle of Terror.md",
+    "0 - Sessions/Session list.md",
+    "0 - Sessions/Session 2.md",
+    "0 - Sessions/Session 1.md",
     "index.md",
-    "Lore/Four Forgotten Heroes.md",
-    "Sessions/Session list.md",
-    "Lore/Prophecy.md",
-    "Lore/Princess Selune.md",
-    "Setting/Isle of Terror.md",
-    "Lore",
-    "Setting/Levinth.md",
-    "Setting/Lordranth.md",
-    "Setting/Ninth.md",
-    "Sessions/Session 1.md",
-    "NPCs/Gods & Deities/Kelemvor.md",
-    "NPCs/Political figures/Prince Adran.md",
-    "Organizations/Political/Drowvian Army.md",
-    "Organizations/Gotthemus family.md",
-    "PCs/Seaof.md",
-    "PCs/Keth.md",
-    "PCs/Drummer.md",
-    "NPCs/Political figures/Princess Dunmre.md",
-    "NPCs/Political figures/Kyorr.md",
-    "NPCs/Gods & Deities/Myrkul.md",
+    "5 - Lore/Prophecy.md",
+    "5 - Lore",
     "Sessions/index.md",
     "Setting/Historical Figures/Gorthon.md",
     "Setting/Historical Figures",
-    "Setting",
-    "NPCs/Political figures",
-    "NPCs/Gods & Deities",
-    "Organizations/Political",
-    "Organizations",
-    "NPCs",
-    "PCs",
-    "Sessions"
+    "4 - Setting",
+    "2 - NPCs/Political figures",
+    "2 - NPCs/Gods & Deities",
+    "3 - Organizations/Political",
+    "3 - Organizations",
+    "2 - NPCs",
+    "1 - PCs",
+    "0 - Sessions"
   ]
 }

@@ -2,7 +2,7 @@
 tags:
   - PC
 ---
-
+- **player:** Ryan
 - **Species:** forest gnome
 - **Class:** rogue
 - **background:** charlatan

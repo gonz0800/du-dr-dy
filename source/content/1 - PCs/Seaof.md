@@ -2,7 +2,6 @@
 tags:
   - PC
 ---
-
 - **Player:** William
 - **Species:** Water genasi
 - **Class:** Monk

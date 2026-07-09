@@ -3,7 +3,6 @@ tags:
   - political-entity
   - enemy
 ---
-
 - led, at least formerly, by [[Kyorr]]
 - Entities include:
 	- Kyorr
