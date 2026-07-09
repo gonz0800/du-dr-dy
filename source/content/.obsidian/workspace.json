@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Four Forgotten Heroes.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Four Forgotten Heroes"
+              "title": "index"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lore/Four Forgotten Heroes.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Four Forgotten Heroes"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lore/Four Forgotten Heroes.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Four Forgotten Heroes"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Four Forgotten Heroes.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Four Forgotten Heroes"
+              "title": "Outline of index"
             }
           }
         ]
@@ -195,8 +195,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "351b5410c5876e1b",
   "lastOpenFiles": [
+    "Lore/Four Forgotten Heroes.md",
     "Sessions/Session list.md",
     "Lore/Prophecy.md",
     "Lore/Princess Selune.md",
@@ -212,7 +213,6 @@
     "NPCs/Political figures/Prince Adran.md",
     "Organizations/Political/Drowvian Army.md",
     "Organizations/Gotthemus family.md",
-    "Lore/Four Forgotten Heroes.md",
     "PCs/Seaof.md",
     "PCs/Nutsall.md",
     "PCs/Keth.md",
