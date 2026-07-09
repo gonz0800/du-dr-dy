@@ -6,7 +6,12 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: [],
+  footer: Component.Footer({
+    links: {
+      "D&D Beyond Basic Rules": "https://www.dndbeyond.com/sources/dnd/br-2024",
+      "More Rules Online": "http://dnd2024.wikidot.com/",
+    },
+  }),
 }
 
 // components for pages that display a single page (e.g. a single note)
