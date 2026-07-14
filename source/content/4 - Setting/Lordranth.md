@@ -6,6 +6,7 @@ aliases:
 tags:
   - map
 ---
+![[lordranth.png]]
 - Capitol city (I assume, as both the Dwarven and Elven palaces are here) of [[Levinth]]
 - Dwarven architecture with Elven nature growing throughout
 - Northern part: more Dwarven

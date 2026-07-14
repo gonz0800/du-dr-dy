@@ -24,7 +24,7 @@ tags:
 	- Keth is thrown in a cell
 	- the rest of us are brought to the lowest level where [[Prince Adran]] is torturing the captured hooded figure
 		- hooded figure is wearing a blue ring with skulls on it and the skulls have ruby eyes - this is a symbol of the [[Drowvian Army]]
-	- tells us that Kyorr is waiting at the [[Isle of Terror]] to regain her strength so she can return triumphantly to the Army
+	- tells us that Kyorr is waiting at the [[Isle of Tera]] to regain her strength so she can return triumphantly to the Army
 	- Adran kills the hooded figure
 	- start by going to the port town of [[Ninth]], north of [[Lordranth]]
 	- Keth is released
