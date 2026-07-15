@@ -17,3 +17,9 @@ tags:
 - not really a good brother or person (as far as we've seen)
 - pushes Nutsall around a lot
 - has some sort of soul link with Nutsall
+	- After boarding school, Nutsall proposed an idea to make [[Gotthemus family|Drugma]] more sustainable, which apparently his whole family hated
+	- it caused a huge fight and Nutsall said some things that he maybe regrets
+	- He didn't see Desius for 10 years
+	- Then all of a sudden, one day he wakes up on the ground next to Desius in the [[Slobon Woods]]
+	- Desius tells him they're now tethered together "because of Nutsall's sins and wrongdoing"
+		- the tether is a couple hundred meters long -- they can be away from each other but not like, in different cities

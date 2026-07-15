@@ -1,0 +1,1 @@
+- where [[Nutsall]] and [[Desius]] woke up after getting the soul tether after 10 years of not seeing each other

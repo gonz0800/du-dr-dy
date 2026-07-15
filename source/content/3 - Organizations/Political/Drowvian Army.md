@@ -8,3 +8,5 @@ tags:
 	- Kyorr
 	- hooded figures from [[Session 1]]
 	- swarms of bats from Session 1
+	- deep gnomes from [[Session 3]]
+- Symbols: rings with skulls and ruby eyes, as seen in [[Session 2]] on the hooded figure and Session 3 on the deep gnome

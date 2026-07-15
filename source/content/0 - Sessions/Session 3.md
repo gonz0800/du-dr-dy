@@ -39,6 +39,33 @@ tags:
 	- Jeffrey is a fucking creep
 	- He inspects Gorbo's Penar Healing Solution and says it's safe to take
 	- His credentials are that he knows [[sex magic brothers|Magic Dan]], Magic Bill's brother
-- Desius rejoins the group and they go to [[Jerry's Generals|Ninth]] to buy Nutsall pants, because when Desius came at the brothel, so did Nutsall, and it's mega embarrassing
+- Desius rejoins the group and they go to [[Ninth|Jerry's Generals]] to buy Nutsall pants, because when Desius came at the brothel, so did Nutsall, and it's mega embarrassing
 - The party goes to the [[Ninth|Monkey Paw Inn]]
-- TBC
+	- Desius and Keth overhead a party of four "low-tier" pirates at the bar talking about how their ship keeps getting attacked by other pirates and they don't know what to do
+	- Desius tries to pickpocket one (who has an eyepatch and also a big scar across his other eye), but gets caught and the pirates tell him they're either gonna kill him or he's gonna work for them tomorrow
+	- Nutsall and Drummer get two rooms
+	- Drummer and Keth go upstairs to take the Penar Healing Solution
+	- Desius barges into their room and wipes his cum all over the bedsheets, then uses their shower
+	- Drummer goes to Nutsall's room and complains to him about Desius
+		- Nutsall is having a crisis over the true nature of his super special silicone silly stick
+		- It was given to him by his best friend [[Ricky from Boarding School]]
+		- They decide to go buy Nutsall a new spellcasting focus before the shops close
+- The party goes out to buy stuff
+	- Keth gets into a conversation with the pirates who are now smoking outside
+		- He wants to help them fight off the other pirates because he wants to travel North with them
+	- Desius goes to [[Ninth|Black Mamba Venom]] and buys poison to coat his arrows in, then to [[Ninth|Ammo Alley]] to buy more arrows
+	- Nutsall and Drummer go to [[Ninth|Wise Willy's]] to get Nutsall a new spellcasting focus
+		- Wise Willy's stocks staffs from [[sex magic brothers|Magic Jeff]] and [[sex magic brothers|Magic Dan]]
+		- also some regular wands (which Drummer buys one for Nutsall because there aren't any cool affordable casting rings)
+		- They ask about employment but Willy is **NOT** hiring, though says there might be work at the dock
+- Back in the rooms, Drummer sleeps on Nutsall's floor because Desius grosses him out
+	- Deep gnomes hiding in the rafters (2/room) shoot the party with poison darts
+	- Drummer immediately falls to 0HP because Nutsall gets scared and Thunderwaves the room, but then he stabilizes Drummer
+	- Keth is a beast who can't be hit
+	- Desius is blinded and disoriented right away
+	- The party does end up killing three of the gnomes, and the other falls off the roof and gets knocked unconscious
+	- Desius ties him up; he's wearing a silver ring with a white base on it and a skull pattern with ruby eyes, much like the hooded figure's from [[Session 2]]
+
+Next up:
+- long rest because Drummer is down and out and the spellcasters are out of spell slots
+- get a fuckin job because we can't afford adventuring at this rate

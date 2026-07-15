@@ -46,6 +46,6 @@ tags:
 	- Good results: cash money, a fancy looking ring which Seaof pockets, bubble confetti, and the slots breaking themselves
 
 
-
+Next up:
 - leaving off with the heroes planning to take a Short Rest
 	- Drummer wants to inspect the slots bc wtf was up with that
