@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Setting/Lordranth.md",
+                "file": "0 - Sessions/Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lordranth"
+              "title": "Session 3"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - Setting/List of Anachronisms and Ana-world-isms.md",
+                "file": "0 - Sessions/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for List of Anachronisms and Ana-world-isms"
+              "title": "Backlinks for Session 3"
             }
           },
           {
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -172,32 +172,35 @@
   },
   "active": "f3f64a6be02d4caf",
   "lastOpenFiles": [
-    "lordranth.png",
-    "4 - Setting/Levinth.md",
-    "levinth.png",
-    "4 - Setting/Isle of Tera.md",
     "4 - Setting/Lordranth.md",
-    "4 - Setting/Ninth.md",
-    "5 - Lore/Four Forgotten Heroes.md",
-    "4 - Setting/List of Anachronisms and Ana-world-isms.md",
-    "5 - Lore/Prophecy.md",
     "0 - Sessions/Session 2.md",
+    "5 - Lore/Prophecy.md",
+    "0 - Sessions/Session 3.md",
+    "4 - Setting/Levinth.md",
+    "5 - Lore/Four Forgotten Heroes.md",
     "5 - Lore/Princess Selune.md",
+    "1 - PCs/Desius.md",
+    "2 - NPCs/Political figures/Princess Dunmre.md",
+    "2 - NPCs/Political figures/Prince Adran.md",
+    "2 - NPCs/Political figures/Kyorr.md",
+    "3 - Organizations/Political/Drowvian Army.md",
+    "3 - Organizations/Gotthemus family.md",
+    "4 - Setting/Isle of Tera.md",
+    "4 - Setting/Ninth.md",
+    "4 - Setting/List of Anachronisms and Ana-world-isms.md",
+    "1 - PCs/Keth.md",
+    "0 - Sessions/Session list.md",
+    "Images/levinth.png",
+    "index.md",
+    "Images",
+    "Images/Lordranth-updated.png",
+    "Images/lordranth.png",
     "2 - NPCs/Gods & Deities/Kelemvor.md",
     "2 - NPCs/Gods & Deities/Myrkul.md",
-    "2 - NPCs/Political figures/Kyorr.md",
-    "2 - NPCs/Political figures/Prince Adran.md",
-    "2 - NPCs/Political figures/Princess Dunmre.md",
-    "3 - Organizations/Gotthemus family.md",
-    "3 - Organizations/Political/Drowvian Army.md",
     "1 - PCs/Seaof.md",
-    "1 - PCs/Desius.md",
     "1 - PCs/Drummer.md",
-    "1 - PCs/Keth.md",
     "1 - PCs/Nutsall.md",
-    "0 - Sessions/Session list.md",
     "0 - Sessions/Session 1.md",
-    "index.md",
     "5 - Lore",
     "Sessions/index.md",
     "Setting/Historical Figures",
@@ -207,7 +210,6 @@
     "3 - Organizations/Political",
     "3 - Organizations",
     "2 - NPCs",
-    "1 - PCs",
-    "0 - Sessions"
+    "1 - PCs"
   ]
 }

@@ -3,6 +3,8 @@ tags:
   - map
 ---
 ![[levinth.png]]
+**NOTE:** Players know this map. PCs do not.
+
 - country
 - Dwarven-Elven Biarchy
 - somewhat politically tense

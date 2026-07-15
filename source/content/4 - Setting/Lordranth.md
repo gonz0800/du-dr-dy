@@ -1,12 +1,10 @@
 ---
-aliases:
-  - Dwarven Dungeon
-  - Chapter Tree
-  - Wally's Bar and Inn
 tags:
   - map
 ---
-![[lordranth.png]]
+![[Lordranth-updated.png]]
+**NOTE**: Players know this map. PCs do not.
+
 - Capitol city (I assume, as both the Dwarven and Elven palaces are here) of [[Levinth]]
 - Dwarven architecture with Elven nature growing throughout
 - Northern part: more Dwarven
@@ -25,7 +23,7 @@ tags:
 - lowest level: torture chamber
 
 ## Establishments
-- Wally's Bar and Inn
+- Wally's Tavern and Inn
 	- inside the Northernmost statue around the main square
 	- Ran by a woman Millie? or something like that
 - Chapter Tree

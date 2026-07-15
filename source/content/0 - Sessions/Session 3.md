@@ -1,0 +1,44 @@
+---
+tags:
+  - session
+---
+- [[Drummer]] starts by inspecting the slot machine from [[Session 2|last session]]; only finds that it's mechanical and made of bronze
+- [[Nutsall]] takes some time to continue to read his [[Prophecy]] book, where he finds a picture of the glowing purple stone with a giant dagger shattering it and text with the rough translation "the only way to win will be to shatter the stone"
+- The party power-naps (short rest) and when they wake up, [[Seaof]] is gone
+	- The party (mostly [[Desius]]) assumes that he ran away because he stole the ring from the slot machine
+- Party continues down the trade route northward to [[Ninth]]
+- Along the way, they enter a clearing and a giant metal box with a door suddenly lowers down beside them from the canopy
+	- this is [[Penar Explosion Chamber|Gorbo's Chamber]]. [[Gorbo]] is a 4' tall little goblin man who seems not to be malicious
+	- the Chamber is very dark and has teleportation and propulsion runes that let it travel around
+	- Gorbo offers the party some mystery meat, which smells disgusting but when Desius and [[Keth]] eat it is actually pretty good
+	- Gorbo says he's a friend of [[sex magic brothers|Magic Bill]] the sex wizard (throws magic sex orgy parties for rich people, but he's also like. Just actually good at magic)
+		- Desius and Nutsall have heard of Magic Bill
+		- Nutsall's super special silicone silly stick is actually a Magic Bill original, which causes him to realize what the stick actually is
+	- Keth (who's shoulders/head the whole party is riding on) decides to enter the Chamber
+	- Gorbo shuts the door behind them, pulls a lever, and all of a sudden the party gets hard af and starts cumming everywhere -- painfully
+	- Everyone's penises explode
+	- Drummer uses Command to make Gorbo pull the lever again
+	- Gorbo runs outside to a stand where he is selling Penar Healing Solution
+	- Desius drinks a ton of the solution, Nutsall drinks a normal amount; their penars are restored (but Desius's is MASSIVE, like truly monsterous)
+	- Drummer is PISSED and starts yelling and screaming at Gorbo and attacks him, causing Gorbo to run into his chamber and flee
+		- Gorbo drops a gold ring with balls and a flaccid penis which Drummer picks up
+- Desius passes out from not having enough blood in his brain when he jerks his giant penis off, and Drummer asks Nutsall for details on his and Desius's relationship
+	- After boarding school, Nutsall proposed an idea to make [[Gotthemus family|Drugma]] more sustainable, which apparently his whole family hated
+	- it caused a huge fight and Nutsall said some things that he maybe regrets
+	- He didn't see Desius for 10 years
+	- Then all of a sudden, one day he wakes up on the ground next to Desius in the [[Slobon Woods]]
+	- Desius tells him they're now tethered together "because of Nutsall's sins and wrongdoing"
+		- the tether is a couple hundred meters long -- they can be away from each other but not like, in different cities
+- Keth reveals that he's only on this quest because he wants to travel North and explore
+- The heroes then arrive in Ninth after about a 1.5 day journey
+- Immediately go to [[Ninth|Jenny's Giant Burgers]] for a meal
+	- server Betsy is *very* into Desius
+- Then Desius takes his massive hog across the street to [[Ninth|Window Shopping]], the brothel, where he sees Betsy is also working, and he hires her
+	- He blows her mind in bed, but then his penis gets a little bit smaller and he starts crying, so Betsy's no longer into him
+- The others go to [[Ninth|Jeffrey's Appraisal]]
+	- Jeffrey is a fucking creep
+	- He inspects Gorbo's Penar Healing Solution and says it's safe to take
+	- His credentials are that he knows [[sex magic brothers|Magic Dan]], Magic Bill's brother
+- Desius rejoins the group and they go to [[Jerry's Generals|Ninth]] to buy Nutsall pants, because when Desius came at the brothel, so did Nutsall, and it's mega embarrassing
+- The party goes to the [[Ninth|Monkey Paw Inn]]
+- TBC

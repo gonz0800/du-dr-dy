@@ -2,16 +2,20 @@
 tags:
   - historical
 ---
-Heroes who saved [[Lordranth|Lordranth]] from a dragon attack 1000 years ago
+Heroes who saved [[Lordranth]] from a dragon attack 1000 years ago
 
-# Gorthon: Slayer of Men
+# Orvish: Slayer of Men
 - orc
+- southernmost
 
-# unknown
-- human
-
-# unknown
+# Ivanth the Brace
 - dwarf
+- easternmost
 
-# unknown
+# Helga the Healer
+- human
+- northernmost
+
+# Soranth the Trickster
 - elf
+- westernmost

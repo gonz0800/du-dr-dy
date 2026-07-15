@@ -5,3 +5,8 @@ aliases:
 - Jesus Christ
 - Michael B. Jordan
 - phones
+- Key and Peele
+- stinky tofu
+- burgers
+- markers
+- [[Ninth|Jenny's Giant Burgers]]
