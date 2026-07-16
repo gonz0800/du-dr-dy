@@ -9,5 +9,7 @@ tags:
 	- Kenku warrior being murdered
 	- Wyvern breathing fire with a rider on its back
 - [[Nutsall]] saw a "light" version in a different book from Chapter tree
+	- Written in the equivalent of Old English
 	- all of us lined up as heroes
 	- glowing purple gem with the text "The key to victory lies here"
+	- Another page: the glowing purple stone with a giant dagger shattering it and text with the rough translation “the only way to win will be to shatter the stone”
