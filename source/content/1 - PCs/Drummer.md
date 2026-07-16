@@ -27,11 +27,11 @@ You can accurately mimic sounds you have heard, including voices. A creature tha
 ### Divine Order (Cleric 1)
 **Thaumaturge.** You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence (Arcana or Religion) checks. The bonus equals your Wisdom modifier (minimum of +1). 
 ## Healing
-### Healer
+### Healer (DMD)
 **Battle Medic.** If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a Utilize action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency Bonus.
 
 **Healing Rerolls.** Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.
-### Channel Divinity: Divine Spark (Healing)
+### Channel Divinity: Divine Spark (Healing) (Cleric 2)
 You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
 **Divine Spark.** As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You restore Hit Points to the creature equal to that total.
