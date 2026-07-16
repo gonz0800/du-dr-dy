@@ -6,6 +6,7 @@ tags:
 - [[Nutsall]] takes some time to continue to read his [[Prophecy]] book, where he finds a picture of the glowing purple stone with a giant dagger shattering it and text with the rough translation "the only way to win will be to shatter the stone"
 - The party power-naps (short rest) and when they wake up, [[Seaof]] is gone
 	- The party (mostly [[Desius]]) assumes that he ran away because he stole the ring from the slot machine
+	- Desius eats some ball bearings because why not ig
 - Party continues down the trade route northward to [[Ninth]]
 - Along the way, they enter a clearing and a giant metal box with a door suddenly lowers down beside them from the canopy
 	- this is [[Penar Explosion Chamber|Gorbo's Chamber]]. [[Gorbo]] is a 4' tall little goblin man who seems not to be malicious
@@ -18,10 +19,10 @@ tags:
 	- Gorbo shuts the door behind them, pulls a lever, and all of a sudden the party gets hard af and starts cumming everywhere -- painfully
 	- Everyone's penises explode
 	- Drummer uses Command to make Gorbo pull the lever again
-	- Gorbo runs outside to a stand where he is selling Penar Healing Solution
+	- Gorbo runs outside to a stand where he is selling [Penar Healing Solution](https://gonz0800.github.io/du-dr-dy/1---PCs/Desius#gorbos-special-healing-solution)
 	- Desius drinks a ton of the solution, Nutsall drinks a normal amount; their penars are restored (but Desius's is MASSIVE, like truly monsterous)
 	- Drummer is PISSED and starts yelling and screaming at Gorbo and attacks him, causing Gorbo to run into his chamber and flee
-		- Gorbo drops a gold ring with balls and a flaccid penis which Drummer picks up
+		- Gorbo drops a [gold ring](https://gonz0800.github.io/du-dr-dy/1---PCs/Drummer#golden-flaccid-penar-ring) with balls and a flaccid penis which Drummer picks up
 - Desius passes out from not having enough blood in his brain when he jerks his giant penis off, and Drummer asks Nutsall for details on his and Desius's relationship
 	- After boarding school, Nutsall proposed an idea to make [[Gotthemus family|Drugma]] more sustainable, which apparently his whole family hated
 	- it caused a huge fight and Nutsall said some things that he maybe regrets
@@ -53,10 +54,10 @@ tags:
 - The party goes out to buy stuff
 	- Keth gets into a conversation with the pirates who are now smoking outside
 		- He wants to help them fight off the other pirates because he wants to travel North with them
-	- Desius goes to [[Ninth|Black Mamba Venom]] and buys poison to coat his arrows in, then to [[Ninth|Ammo Alley]] to buy more arrows
+	- Desius goes to [[Ninth|Black Mamba Venom]] and buys [poison](https://gonz0800.github.io/du-dr-dy/1---PCs/Desius#gorbos-special-healing-solution) to coat his arrows in, then to [[Ninth|Ammo Alley]] to buy more arrows
 	- Nutsall and Drummer go to [[Ninth|Wise Willy's]] to get Nutsall a new spellcasting focus
 		- Wise Willy's stocks staffs from [[sex magic brothers|Magic Jeff]] and [[sex magic brothers|Magic Dan]]
-		- also some regular wands (which Drummer buys one for Nutsall because there aren't any cool affordable casting rings)
+		- also some regular [wands](https://gonz0800.github.io/du-dr-dy/1---PCs/Nutsall#miscellaneous) (which Drummer buys one for Nutsall because there aren't any cool affordable casting rings)
 		- They ask about employment but Willy is **NOT** hiring, though says there might be work at the dock
 - Back in the rooms, Drummer sleeps on Nutsall's floor because Desius grosses him out
 	- Deep gnomes hiding in the rafters (2/room) shoot the party with poison darts
