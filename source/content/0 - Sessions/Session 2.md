@@ -2,16 +2,16 @@
 tags:
   - session
 ---
-- [[Prince Adran]] and [[Princess Dunmre]] apprehend one of the hooded figures, shackle her, and take her to the [[Lordranth|Dwarven Dungeon]]
+- [[Prince Adran]] and [[Princess Dunmre]] apprehend one of the hooded figures, shackle her, and take her to the [Dwarven Dungeon](https://gonz0800.github.io/du-dr-dy/4---Setting/Lordranth#dwarven-dungeon)
 - Adran and Dunmre tell us that we have been Chosen to fulfil a [[Prophecy]] about the heroes who will save the city or the continent or something
 	- we will be tasked to find and retrieve [[Kyorr]]
 	- something about being given this task by [[Princess Selune]]?? or something like that
 	- Party is supposed to meet then in the Dungeon later in the day
 - [[Desius]] and [[Keth]] harass a police officer about how "the bank mistreated Desius earlier"
-- [[Nutsall]] and [[Drummer]] go to a local bookstore, the [[Lordranth|Chapter Tree]]
+- [[Nutsall]] and [[Drummer]] go to a local bookstore, the [Chapter Tree](https://gonz0800.github.io/du-dr-dy/4---Setting/Lordranth#establishments)
 	- buy three books: a book on Kenkus and two books on the Prophecy (one optimistic; one pessimistic)
 	- Nutsall reveals to Drummer that this is the first time that he and Desius are seeing each other in 10 years; there was some sort of argument between them and their parents took Desius's side
-- Desius and Keth go to [[Lordranth|Wally's Bar and Inn]]
+- Desius and Keth go to [Wally's Bar and Inn](https://gonz0800.github.io/du-dr-dy/4---Setting/Lordranth#establishments)
 	- Desius is trying to teach Keth to pull off scams
 	- They run into a mysterious stranger, [[Seaof]], who can only communicate Keth a little bit in Common Sign
 	- Desius and Seaof get pretty drunk; Keth not so much
@@ -31,7 +31,7 @@ tags:
 - party returns to Wally's, surprisingly successfully disguising Keth as [[List of Anachronisms and Ana-world-isms|Michael B. Jordan]]
 	- get rooms for free by promising the owner a signed autograph from Michael
 	- In the rooms, Nutsall and Drummer read their books on the [[Prophecy]]
-	- Drummer saw a "dark" version of this prophecy in a book from [[Lordranth|Chapter Tree]]
+	- Drummer saw a "dark" version of this prophecy in a book from Chapter Tree
 		- Kenku warrior being murdered
 		- Wyvern breathing fire with a rider on its back
 	- Nutsall saw a "light" version in a different book from Chapter tree
