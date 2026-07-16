@@ -43,7 +43,7 @@ tags:
 - We decide to go on the quest
 - on the forest trade route north out of Lordranth towards Ninth, the party is "attacked" by a mysterious slot machine
 	- Bad results of playing slots: giant rocks (sometimes on fire) hurling at you from nowhere; zombies
-	- Good results: cash money, a fancy looking ring which Seaof pockets, bubble confetti, and the slots breaking themselves
+	- Good results: cash money, a [fancy looking ring](https://gonz0800.github.io/du-dr-dy/1---PCs/Seaof#slot-machine-ring) which Seaof pockets, bubble confetti, and the slots breaking themselves
 
 
 Next up:
