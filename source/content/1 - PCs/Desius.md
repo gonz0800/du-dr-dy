@@ -8,7 +8,7 @@ tags:
 - **Class:** rogue
 - **background:** charlatan
 - **height:** 3'1"
-- **relationships**: Older twin of [[Nutsall]]
+- **relationships**: Older (by 2 min) twin of [[Nutsall]]
 - **weapons:** daggers, shortsword, shortbow
 
 # Lore
@@ -51,15 +51,33 @@ The extra damage increases as you gain Rogue levels, as shown in the Sneak Attac
 Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
-
 ### Cunning Action (Rogue 2)
-
 Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
-
 # Items and Equipment
-
+## Miscellaneous
+- Forgery Kit (Charlatan)
+	- **Utilize:** Mimic 10 or fewer words of someone else’s handwriting (Dex DC 15), or duplicate a wax seal (Dex DC 20)
+- Costume (Business suit) (Charlatan)
+- Fine Clothes (Charlatan)
+- [Thieves’ Tools](https://www.dndbeyond.com/equipment/495-thieves-tools) (Rogue)
+	- **Utilize:** Pick a lock (Dex DC 15), or disarm a trap (Dex DC 15)
+- [Burglar’s Pack](https://www.dndbeyond.com/equipment/491-burglars-pack) (Rogue)
+	- [Backpack](https://www.dndbeyond.com/equipment/399-backpack)
+	- [Ball Bearings](https://www.dndbeyond.com/equipment/406-ball-bearings) (Some eaten)
+	- [Bell](https://www.dndbeyond.com/equipment/429-bell)
+	- 10 [Candles](https://www.dndbeyond.com/equipment/501-candle)
+	- [Crowbar](https://www.dndbeyond.com/equipment/535-crowbar)
+	- [Hooded Lantern](https://www.dndbeyond.com/equipment/493-hooded-lantern)
+	- 7 flasks of [Oil](https://www.dndbeyond.com/equipment/393-oil)
+	- 5 days of [Rations](https://www.dndbeyond.com/equipment/411-rations)
+	- ~~[Rope](https://www.dndbeyond.com/equipment/415-rope)~~ (in use to tie up a Deep Gnome at the end of [[Session 3]])
+	- [Tinderbox](https://www.dndbeyond.com/equipment/434-tinderbox)
+	- [Waterskin](https://www.dndbeyond.com/equipment/442-waterskin)
+## Gorbo's Special Healing Solution
+A bottle of red potion that can regrow (and enhance!) one's penar post-penar explosion. Stolen from [[Gorbo]] in [[Session 3]].
+## Vial of Poison
+A vial with 20 arrows' worth of poison, bought from [[Ninth|Black Mamba's Venom]] in [[Session 3]].
 ## Weapons
-
 ### Dagger
 *Simple Melee weapon.*
 
