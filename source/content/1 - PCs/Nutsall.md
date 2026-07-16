@@ -26,7 +26,6 @@ tags:
 	- "best friend" [[Ricky from Boarding School]] gave him his silly stick
 
 # Feats and Abilities
-To be added later, Hiroki knows ;)
 ## Passive Feats
 ### Darkvision (Gnome)
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Darkvision) with a range of 60 feet.
