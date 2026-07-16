@@ -30,37 +30,40 @@ tags:
 # Feats and Abilities
 ## Passive Feats
 ### Darkvision (Gnome)
-You have Darkvision with a range of 60 feet.
+You have [Darkvision](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Darkvision) with a range of 60 feet.
 ### Gnomish Cunning
 You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
 ### Thieves’ Cant (Rogue 1)
-You picked up various languages in the communities where you plied your roguish talents. You know Thieves’ Cant and one other language of your choice.
+You picked up various languages in the communities where you plied your roguish talents. You know [Thieves’ Cant](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes#ThievesCant) and one other language of your choice.
 ## Spellcasting
 ### Gnomish Lineage
 You are part of a lineage that grants you supernatural abilities. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
-**Forest Gnome.** You know the *Minor Illusion* cantrip. You also always have the *Speak with Animals* spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
+**Forest Gnome.** You know the [Minor Illusion](https://www.dndbeyond.com/spells/2619039-minor-illusion) cantrip. You also always have the [Speak with Animals](https://www.dndbeyond.com/spells/2619059-speak-with-animals) spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
 ## Combat
 ### Sneak Attack (Rogue 1)
 You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage’s type is the same as the weapon’s type.
 
 You don’t need Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn’t have the Incapacitated condition, and you don’t have Disadvantage on the attack roll.
 
-The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
+<font style="color:blue">The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.</font>
 ### Weapon Mastery (Rogue 1)
-Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
+Your training with weapons allows you to use the [mastery properties](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#MasteryProperties) of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
 
 Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.
 ### Cunning Action (Rogue 2)
 Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
 # Items and Equipment
 ## Miscellaneous
-- Forgery Kit (Charlatan)
+- [Forgery Kit](https://www.dndbeyond.com/equipment/543-forgery-kit) (Charlatan)
 	- **Utilize:** Mimic 10 or fewer words of someone else’s handwriting (Dex DC 15), or duplicate a wax seal (Dex DC 20)
-- Costume (Business suit) (Charlatan)
-- Fine Clothes (Charlatan)
+	- If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that’s used with that check, you have Advantage on the check too.
+- [Costume](https://www.dndbeyond.com/equipment/536-costume) (Business suit) (Charlatan)
+	- While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.
+- [Fine Clothes](https://www.dndbeyond.com/equipment/539-fine-clothes) (Charlatan)
 - [Thieves’ Tools](https://www.dndbeyond.com/equipment/495-thieves-tools) (Rogue)
 	- **Utilize:** Pick a lock (Dex DC 15), or disarm a trap (Dex DC 15)
+	- If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that’s used with that check, you have Advantage on the check too.
 - [Burglar’s Pack](https://www.dndbeyond.com/equipment/491-burglars-pack) (Rogue)
 	- [Backpack](https://www.dndbeyond.com/equipment/399-backpack)
 	- [Ball Bearings](https://www.dndbeyond.com/equipment/406-ball-bearings) (Some eaten)

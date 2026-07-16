@@ -36,14 +36,14 @@ You can use this class’s Channel Divinity twice. You regain one of its expende
 
 **Divine Spark.** As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You restore Hit Points to the creature equal to that total.
 
-You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
+<font style="color:blue">You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).</font>
 ## Combat
 ### Channel Divinity: Divine Spark (Damaging) (Cleric 2)
 You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
 
 **Divine Spark.** As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
-You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
+<font style="color:blue">You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).</font>
 ### Channel Divinity: Turn Undead (Cleric 2)
 You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
 
@@ -59,9 +59,10 @@ You can use this class’s Channel Divinity twice. You regain one of its expende
 	- 7 days of [Rations](https://www.dndbeyond.com/equipment/411-rations)
 	- [Robe](https://www.dndbeyond.com/equipment/412-robe)
 	- [Tinderbox](https://www.dndbeyond.com/equipment/434-tinderbox)
-- Leatherworker's Tools (DMD)
+- [Leatherworker's Tools](https://www.dndbeyond.com/equipment/425-leatherworkers-tools) (DMD)
 	- **Utilize:** Add a design to a leather item (Dex DC 10)
 	- **Craft:** [Sling](https://www.dndbeyond.com/equipment/18-sling), [Whip](https://www.dndbeyond.com/equipment/34-whip), [Hide Armor](https://www.dndbeyond.com/equipment/11-hide), [Leather Armor](https://www.dndbeyond.com/equipment/10-leather), [Studded Leather Armor](https://www.dndbeyond.com/equipment/3-studded-leather), [Backpack](https://www.dndbeyond.com/equipment/399-backpack), [Crossbow Bolt Case](https://www.dndbeyond.com/equipment/505-crossbow-bolt-case), [Map or Scroll Case](https://www.dndbeyond.com/equipment/518-map-or-scroll-case), [Parchment](https://www.dndbeyond.com/equipment/395-parchment), [Pouch](https://www.dndbeyond.com/equipment/403-pouch), [Quiver](https://www.dndbeyond.com/equipment/407-quiver), [Waterskin](https://www.dndbeyond.com/equipment/442-waterskin)
+	- If you have proficiency with a tool, add your Proficiency Bonus to any ability check you make that uses the tool. If you have proficiency in a skill that’s used with that check, you have Advantage on the check too.
 - [Bedroll](https://www.dndbeyond.com/equipment/420-bedroll) (DMD)
 - [Pole](https://www.dndbeyond.com/equipment/400-pole) (DMD)
 - [Tent](https://www.dndbeyond.com/equipment/433-tent) (DMD)
