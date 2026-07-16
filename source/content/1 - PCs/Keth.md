@@ -38,22 +38,29 @@ You have a limited well of physical and mental stamina that you can draw on. As 
 
 You can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
-<font style="color:blue">When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.</font>
+>[!info]- Level Up!
+>When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.</font>
 ## Combat
 ### Fighting Style (Fighter 1)
 You have honed your martial prowess and gain a [Fighting Style](https://www.dndbeyond.com/sources/dnd/br-2024/feats#FightingStyleFeats) feat ([better source](https://dnd5e.wikidot.com/fighter)) of your choice.
 
-<font style="color:blue">Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.</font>
+>[!info]- Level Up!
+>Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
 **Level 1: Interception.** When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a Reaction to reduce the damage dealt to the target by 1d10 plus your Proficiency Bonus. You must be holding a Shield or a Simple or Martial weapon to use this Reaction.
 ### Weapon Mastery (Fighter 1)
 Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
-<font style="color:blue">When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
-### Action Surge (Fighter 2)
-You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.</font>
+>[!info]- Level Up!
+>When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
-Once you use this feature, you can’t do so again until you finish a Short or Long Rest. <font style="color:blue">Starting at level 17, you can use it twice before a rest but only once on a turn.</font>
+### Action Surge (Fighter 2)
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.
+
+Once you use this feature, you can’t do so again until you finish a Short or Long Rest. 
+
+>[!info]- Level Up!
+>Starting at level 17, you can use it twice before a rest but only once on a turn.
 # Items and Equipment
 ## Miscellaneous
 - [Dungeoneer’s Pack](https://www.dndbeyond.com/equipment/525-dungeoneers-pack) (Fighter)

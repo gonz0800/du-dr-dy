@@ -36,14 +36,16 @@ You can use this class’s Channel Divinity twice. You regain one of its expende
 
 **Divine Spark.** As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You restore Hit Points to the creature equal to that total.
 
-<font style="color:blue">You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).</font>
+>[!info]- Level Up!
+>You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 ## Combat
 ### Channel Divinity: Divine Spark (Damaging) (Cleric 2)
 You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
 
 **Divine Spark.** As a Magic action, you point your Holy Symbol at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll 1d8 and add your Wisdom modifier. You force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).
 
-<font style="color:blue">You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).</font>
+>[!info]- Level Up!
+>You roll an additional d8 when you reach Cleric levels 7 (2d8), 13 (3d8), and 18 (4d8).
 ### Channel Divinity: Turn Undead (Cleric 2)
 You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
 

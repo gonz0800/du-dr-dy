@@ -41,7 +41,8 @@ You gain the following benefits.
 
 ***Level 1 Spell.*** Choose a level 1 spell from the same list you selected for this feat’s cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.
 
-***<font style="color:blue">Spell Change.*** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.</font>
+>[!info]- Level Up!
+>***Spell Change.*** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
 ***Repeatable.*** You can take this feat more than once, but you must choose a different spell list each time
 ### Gnomish Lineage
