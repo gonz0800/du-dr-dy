@@ -2,16 +2,16 @@
 tags:
   - session
 ---
-- [[Prince Adran]] and [[Princess Dunmre]] apprehend one of the hooded figures, shackle her, and take her to the [Dwarven Dungeon](https://gonz0800.github.io/du-dr-dy/4---Setting/Lordranth#dwarven-dungeon)
+- [[Prince Adran]] and [[Princess Dunmre]] apprehend one of the hooded figures, shackle her, and take her to the [[Lordranth#Dwarven Dungeon|Dwarven Dungeon]]
 - Adran and Dunmre tell us that we have been Chosen to fulfil a [[Prophecy]] about the heroes who will save the city or the continent or something
 	- we will be tasked to find and retrieve [[Kyorr]]
 	- something about being given this task by [[Princess Selune]]?? or something like that
 	- Party is supposed to meet then in the Dungeon later in the day
 - [[Desius]] and [[Keth]] harass a police officer about how "the bank mistreated Desius earlier"
-- [[Nutsall]] and [[Drummer]] go to a local bookstore, the [Chapter Tree](https://gonz0800.github.io/du-dr-dy/4---Setting/Lordranth#establishments)
+- [[Nutsall]] and [[Drummer]] go to a local bookstore, the [[Lordranth#Establishments|Chapter Tree]]
 	- buy three books: a book on Kenkus and two books on the Prophecy (one optimistic; one pessimistic)
 	- Nutsall reveals to Drummer that this is the first time that he and Desius are seeing each other in 10 years; there was some sort of argument between them and their parents took Desius's side
-- Desius and Keth go to [Wally's Bar and Inn](https://gonz0800.github.io/du-dr-dy/4---Setting/Lordranth#establishments)
+- Desius and Keth go to [[Lordranth#Establishments|Wally's Bar and Inn]]
 	- Desius is trying to teach Keth to pull off scams
 	- They run into a mysterious stranger, [[Seaof]], who can only communicate Keth a little bit in Common Sign
 	- Desius and Seaof get pretty drunk; Keth not so much
@@ -43,7 +43,7 @@ tags:
 - We decide to go on the quest
 - on the forest trade route north out of Lordranth towards Ninth, the party is "attacked" by a mysterious slot machine
 	- Bad results of playing slots: giant rocks (sometimes on fire) hurling at you from nowhere; zombies
-	- Good results: cash money, a [fancy looking ring](https://gonz0800.github.io/du-dr-dy/1---PCs/Seaof#slot-machine-ring) which Seaof pockets, bubble confetti, and the slots breaking themselves
+	- Good results: cash money, a [[Seaof#Slot Machine Ring|fancy-lookin ring]] which Seaof pockets, bubble confetti, and the slots breaking themselves
 
 
 Next up:

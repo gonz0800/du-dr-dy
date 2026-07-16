@@ -46,7 +46,7 @@ You know how to strike subtly and exploit a foe’s distraction. Once per turn, 
 
 You don’t need Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn’t have the Incapacitated condition, and you don’t have Disadvantage on the attack roll.
 
-<font style="color:blue">The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.</font>
+[!info]<font style="color:blue">The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.</font>
 ### Weapon Mastery (Rogue 1)
 Your training with weapons allows you to use the [mastery properties](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#MasteryProperties) of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.
 

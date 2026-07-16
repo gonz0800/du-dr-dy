@@ -19,10 +19,10 @@ tags:
 	- Gorbo shuts the door behind them, pulls a lever, and all of a sudden the party gets hard af and starts cumming everywhere -- painfully
 	- Everyone's penises explode
 	- Drummer uses Command to make Gorbo pull the lever again
-	- Gorbo runs outside to a stand where he is selling [Penar Healing Solution](https://gonz0800.github.io/du-dr-dy/1---PCs/Desius#gorbos-special-healing-solution)
+	- Gorbo runs outside to a stand where he is selling [[Desius#Gorbo's Special Healing Solution|Penar Healing Solution]]
 	- Desius drinks a ton of the solution, Nutsall drinks a normal amount; their penars are restored (but Desius's is MASSIVE, like truly monsterous)
 	- Drummer is PISSED and starts yelling and screaming at Gorbo and attacks him, causing Gorbo to run into his chamber and flee
-		- Gorbo drops a [gold ring](https://gonz0800.github.io/du-dr-dy/1---PCs/Drummer#golden-flaccid-penar-ring) with balls and a flaccid penis which Drummer picks up
+		- Gorbo drops a [[Drummer#Golden Flaccid Penar Ring|gold ring]] with balls and a flaccid penis which Drummer picks up
 - Desius passes out from not having enough blood in his brain when he jerks his giant penis off, and Drummer asks Nutsall for details on his and Desius's relationship
 	- After boarding school, Nutsall proposed an idea to make [[Gotthemus family|Drugma]] more sustainable, which apparently his whole family hated
 	- it caused a huge fight and Nutsall said some things that he maybe regrets
@@ -32,16 +32,16 @@ tags:
 		- the tether is a couple hundred meters long -- they can be away from each other but not like, in different cities
 - Keth reveals that he's only on this quest because he wants to travel North and explore
 - The heroes then arrive in Ninth after about a 1.5 day journey
-- Immediately go to [Jenny's Giant Burgers](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#jennys-giant-burgers) for a meal
+- Immediately go to [[Ninth#Jenny's Giant Burgers|Jenny's Giant Burgers]] for a meal
 	- server Betsy is *very* into Desius
-- Then Desius takes his massive hog across the street to [Window Shopping](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#window-shopping), the brothel, where he sees Betsy is also working, and he hires her
+- Then Desius takes his massive hog across the street to [[Ninth#Window Shopping|Window Shopping]], the brothel, where he sees Betsy is also working, and he hires her
 	- He blows her mind in bed, but then his penis gets a little bit smaller and he starts crying, so Betsy's no longer into him
-- The others go to [Jeffrey's Appraisal](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#jeffreys-appraisal)
+- The others go to [[Ninth#Jeffrey's Appraisal|Jeffrey's Appraisal]]
 	- Jeffrey is a fucking creep
 	- He inspects Gorbo's Penar Healing Solution and says it's safe to take
 	- His credentials are that he knows [[sex magic brothers|Magic Dan]], Magic Bill's brother
-- Desius rejoins the group and they go to [Jerry's Generals](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#jerrys-generals) to buy Nutsall pants, because when Desius came at the brothel, so did Nutsall, and it's mega embarrassing
-- The party goes to the [Monkey Paw Inn](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#monkey-paw-inn)
+- Desius rejoins the group and they go to [[Ninth#Jerry's Generals|Jerry's Generals]] to buy Nutsall pants, because when Desius came at the brothel, so did Nutsall, and it's mega embarrassing
+- The party goes to the [[Ninth#Monkey Paw Inn|Monkey Paw Inn]]
 	- Desius and Keth overhead a party of four "low-tier" pirates at the bar talking about how their ship keeps getting attacked by other pirates and they don't know what to do
 	- Desius tries to pickpocket one (who has an eyepatch and also a big scar across his other eye), but gets caught and the pirates tell him they're either gonna kill him or he's gonna work for them tomorrow
 	- Nutsall and Drummer get two rooms
@@ -54,10 +54,10 @@ tags:
 - The party goes out to buy stuff
 	- Keth gets into a conversation with the pirates who are now smoking outside
 		- He wants to help them fight off the other pirates because he wants to travel North with them
-	- Desius goes to [Black Mamba Venom](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#black-mamba-venom) and buys [poison](https://gonz0800.github.io/du-dr-dy/1---PCs/Desius#gorbos-special-healing-solution) to coat his arrows in, then to [Ammo Alley](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#ammo-alley) to buy more arrows
-	- Nutsall and Drummer go to [Wise Willy's](https://gonz0800.github.io/du-dr-dy/4---Setting/Ninth#wise-willys) to get Nutsall a new spellcasting focus
+	- Desius goes to [[Ninth#Black Mamba Venom|Black Mamba Venom]] and buys [[Desius#Vial of Poison|poison]] to coat his arrows in, then to [[Ninth#Ammo Alley|Ammo Alley]] to buy more arrows
+	- Nutsall and Drummer go to [[Ninth#Wise Willy's|Wise Willy's]] to get Nutsall a new spellcasting focus
 		- Wise Willy's stocks staffs from [[sex magic brothers|Magic Jeff]] and [[sex magic brothers|Magic Dan]]
-		- also some regular [wands](https://gonz0800.github.io/du-dr-dy/1---PCs/Nutsall#miscellaneous) (which Drummer buys one for Nutsall because there aren't any cool affordable casting rings)
+		- also some regular [[Nutsall#Miscellaneous|wands]] (which Drummer buys one for Nutsall because there aren't any cool affordable casting rings)
 		- They ask about employment but Willy is **NOT** hiring, though says there might be work at the dock
 - Back in the rooms, Drummer sleeps on Nutsall's floor because Desius grosses him out
 	- Deep gnomes hiding in the rafters (2/room) shoot the party with poison darts
