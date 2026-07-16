@@ -80,7 +80,7 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 ## Gorbo's Special Healing Solution
 A bottle of red potion that can regrow (and enhance!) one's penar post-penar explosion. Stolen from [[Gorbo]] in [[Session 3]].
 ## Vial of Poison
-A vial with 20 arrows' worth of poison, bought from [[Ninth|Black Mamba's Venom]] in [[Session 3]].
+A vial with 20 arrows' worth of poison, bought from [[Ninth#Black Mamba Venom|Black Mamba Venom]] in [[Session 3]].
 ## Weapons
 ### Dagger
 *Simple Melee weapon.*

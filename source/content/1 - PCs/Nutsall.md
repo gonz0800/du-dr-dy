@@ -60,7 +60,7 @@ Once you use this feature, you can’t do so again until you finish a Long Rest.
 # Items and Equipment
 ## Miscellaneous
 - Wooden Wand ([Arcane Focus](https://www.dndbeyond.com/equipment/544-arcane-focus))
-	- Purchased from [[Ninth|Wise Willy's]] during [[Session 3]]
+	- Purchased from [[Ninth#Wise Willy's|Wise Willy's]] during [[Session 3]]
 (I'm assuming here that Hiroki took the standard equipment for his class and background, but maybe not)
 - [Robe](https://www.dndbeyond.com/equipment/412-robe) (Wizard)
 - [Spellbook](https://www.dndbeyond.com/equipment/86-spellbook) (Wizard)
