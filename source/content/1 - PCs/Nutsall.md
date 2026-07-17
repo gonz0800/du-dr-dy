@@ -32,7 +32,7 @@ You have [Darkvision](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossa
 ### Gnomish Cunning
 You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
 ### Scholar (Wizard 2)
-While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
+While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have [Expertise](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Expertise) in the chosen skill.
 ## Spellcasting
 ### Magic Initiate (Sage)
 You gain the following benefits.
